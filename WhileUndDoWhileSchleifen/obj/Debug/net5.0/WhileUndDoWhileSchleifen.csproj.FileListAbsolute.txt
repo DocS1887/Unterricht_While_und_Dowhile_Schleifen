@@ -1,0 +1,16 @@
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\WhileUndDoWhileSchleifen\WhileUndDoWhileSchleifen\bin\Debug\net5.0\WhileUndDoWhileSchleifen.exe
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\WhileUndDoWhileSchleifen\WhileUndDoWhileSchleifen\bin\Debug\net5.0\WhileUndDoWhileSchleifen.deps.json
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\WhileUndDoWhileSchleifen\WhileUndDoWhileSchleifen\bin\Debug\net5.0\WhileUndDoWhileSchleifen.runtimeconfig.json
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\WhileUndDoWhileSchleifen\WhileUndDoWhileSchleifen\bin\Debug\net5.0\WhileUndDoWhileSchleifen.runtimeconfig.dev.json
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\WhileUndDoWhileSchleifen\WhileUndDoWhileSchleifen\bin\Debug\net5.0\WhileUndDoWhileSchleifen.dll
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\WhileUndDoWhileSchleifen\WhileUndDoWhileSchleifen\bin\Debug\net5.0\ref\WhileUndDoWhileSchleifen.dll
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\WhileUndDoWhileSchleifen\WhileUndDoWhileSchleifen\bin\Debug\net5.0\WhileUndDoWhileSchleifen.pdb
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\WhileUndDoWhileSchleifen\WhileUndDoWhileSchleifen\obj\Debug\net5.0\WhileUndDoWhileSchleifen.csproj.AssemblyReference.cache
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\WhileUndDoWhileSchleifen\WhileUndDoWhileSchleifen\obj\Debug\net5.0\WhileUndDoWhileSchleifen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\WhileUndDoWhileSchleifen\WhileUndDoWhileSchleifen\obj\Debug\net5.0\WhileUndDoWhileSchleifen.AssemblyInfoInputs.cache
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\WhileUndDoWhileSchleifen\WhileUndDoWhileSchleifen\obj\Debug\net5.0\WhileUndDoWhileSchleifen.AssemblyInfo.cs
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\WhileUndDoWhileSchleifen\WhileUndDoWhileSchleifen\obj\Debug\net5.0\WhileUndDoWhileSchleifen.csproj.CoreCompileInputs.cache
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\WhileUndDoWhileSchleifen\WhileUndDoWhileSchleifen\obj\Debug\net5.0\WhileUndDoWhileSchleifen.dll
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\WhileUndDoWhileSchleifen\WhileUndDoWhileSchleifen\obj\Debug\net5.0\ref\WhileUndDoWhileSchleifen.dll
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\WhileUndDoWhileSchleifen\WhileUndDoWhileSchleifen\obj\Debug\net5.0\WhileUndDoWhileSchleifen.pdb
+C:\Users\nesam\Desktop\Eigene Dateien\IT_21_Sommer_FIAE_B\WhileUndDoWhileSchleifen\WhileUndDoWhileSchleifen\obj\Debug\net5.0\WhileUndDoWhileSchleifen.genruntimeconfig.cache
